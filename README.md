@@ -31,16 +31,17 @@ Files
 
 **How to run**
 ----------
-1. Run the **CabreraJacobStephenBSCS3B.exe** to start the program
-2. Enter the number of processes, then provide each process's:
+1. Install the **CabreraJacobStephenBSCS3B.exe** file
+2. Run the **CabreraJacobStephenBSCS3B.exe** to start the program
+3. Enter the number of processes, then provide each process's:
    - Process ID
    - Arrival time
    - Burst time (This will not accept 0 as a value)
    - Priority
-3. Choose a scheduling algorithm from the menu by inputting the number of the desired algorithm (1.FCFS -- input "1" and press Enter to proceed with FCFS).
-4. If Round Robin or Priority Round Robin is selected, enter a time quantum.
-5. Review the displayed Gantt chart and statistics.
-6. Press Enter to exit the program
+4. Choose a scheduling algorithm from the menu by inputting the number of the desired algorithm (1.FCFS -- input "1" and press Enter to proceed with FCFS).
+5. If Round Robin or Priority Round Robin is selected, enter a time quantum.
+6. Review the displayed Gantt chart and statistics.
+7. Press Enter to exit the program
 
 Notes
 -----
